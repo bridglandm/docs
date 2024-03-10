@@ -65,7 +65,7 @@ h1 {
 
 ## Example 4
 
-Set the top padding to `10px`, right to `15px`, left to `20px` and bottom to `5px`:
+Set the top padding to `10px`, right to `15px`, bottom to `20px` and left to `5px`:
 
 ```css
 h1 {
